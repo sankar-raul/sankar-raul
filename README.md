@@ -39,5 +39,5 @@
 </p>
 
 <p align="">
-  Feel free to explore the project on its <a href="https://github.com/sankar-coding">GitHub repository</a>. You can find the source code and more details about how it works.
+  Feel free to explore the project on its <a href="https://github.com/sankar-coding?tab=repositories">GitHub repository</a>. You can find the source code and more details about how it works.
 </p>
