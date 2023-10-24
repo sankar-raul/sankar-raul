@@ -31,11 +31,11 @@
 <h3 align="">Calculator Web App</h3>
 
 <p align="">
-  📝 **Description**: This is a web-based calculator application that I built using HTML, CSS, and JavaScript.
+  📝 <strong>Description</strong>: This is a web-based calculator application that I built using HTML, CSS, and JavaScript.
 </p>
 
 <p align="">
-  📁 **Link**: <a href="https://github.com/sankar-coding/calculator_web">GitHub Repository</a>)
+  📁 <strong>Link:</strong> <a href="https://github.com/sankar-coding/calculator_web">calculator_web</a>
 </p>
 
 <p align="">
