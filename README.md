@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🚀 I'm currently learning Three.js, React.js, and Node.js.
+  🚀 I'm currently learning C and Node.js.
 </p>
 
 <p>
