@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/Sxk1B2hc/IMG-20230919-WA0008.jpg" width="60" style="border-radius: 40%;">
+  <img src="https://i.postimg.cc/2j7k1D9f/sankar.jpg" width="60" style="border-radius: 40;">
 </p>
 
 <h1 align="center">Welcome to My GitHub Profile</h1>
