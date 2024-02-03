@@ -28,14 +28,14 @@
 
 <h2 align="center">My Projects</h2>
 
-<h3 align="">Calculator Web App</h3>
+<h3 align="">User registration Web App</h3>
 
 <p align="">
-  📝 <strong>Description</strong>: This is a web-based calculator application that I built using HTML, CSS, and JavaScript.
+  📝 <strong>Description</strong>: This is a web-based user registration application that I built using HTML, CSS, and JavaScript,nodeJs,expresJs,JSON API,postgreeSQL.
 </p>
 
 <p align="">
-  📁 <strong>Link:</strong> <a href="https://github.com/sankar-coding/calculator_web">calculator_web</a>
+  📁 <strong>Link:</strong> <a href="https://github.com/sankar-coding/nodeLogin">User login system</a>
 </p>
 
 <p align="">
