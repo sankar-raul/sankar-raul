@@ -7,7 +7,7 @@
 <p>
   👋 Hi, I'm Sankar.
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/X7jznpZj/cat.gif">
 <p align="">
   🌟 I'm interested in web technologies.
 </p>
