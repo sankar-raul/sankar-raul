@@ -20,6 +20,15 @@
   📚 I'm a <b>BCA </b>(Bachelor of Computer Applications) student.
 </p>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat&logo=javascript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300000f.svg?style=flat&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+
 <h2 align="center">About Me</h2>
 
 <p align="">
