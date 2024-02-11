@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://i.postimg.cc/2j7k1D9f/sankar.jpg" width="80">
 </p>
-
-<h1 align="center">Welcome to My GitHub Profile</h1>
-
-<p>
+<h1>
   👋 Hi, I'm Sankar.
-</p>
+</h1>
+<h3 align="center">Welcome to My GitHub Profile</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/X7jznpZj/cat.gif">
 <p align="">
   🌟 I'm interested in web technologies.
