@@ -39,12 +39,12 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sankar-coding&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sankar-coding&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-coding&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sankar-coding&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sankar-raul&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <h2 align="center">My Projects</h2>
 
@@ -55,9 +55,9 @@
 </p>
 
 <p align="">
-  📁 <strong>Link:</strong> <a href="https://github.com/sankar-coding/nodeLogin">User login system</a>
+  📁 <strong>Link:</strong> <a href="https://github.com/sankar-raul/nodeLogin">User login system</a>
 </p>
 
 <p align="">
-  Feel free to explore the project on its <a href="https://github.com/sankar-coding?tab=repositories">GitHub repository</a>. You can find the source code and more details about how it works.
+  Feel free to explore the project on its <a href="https://github.com/sankar-raul?tab=repositories">GitHub repository</a>. You can find the source code and more details about how it works.
 </p>
