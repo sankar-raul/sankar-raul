@@ -8,7 +8,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/X7jznpZj/cat.gif">
-![](https://visitcount.itsvg.in/api?id=solanki03&icon=8&color=5)
+![](https://visitcount.itsvg.in/api?id=sanakr-raul&icon=8&color=5)
 <p align="">
   🌟 I'm interested in web technologies.
 </p>
