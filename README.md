@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Sankar.</h1>
 <h3 align="center">Welcome to My GitHub Profile</h3>
-<img src="https://visitcount.itsvg.in/api?id=sankar-raul&icon=8&color=5" alt="profile-views" height="50px" align="right"/>
+<img src="https://visitcount.itsvg.in/api?id=sankar-raul&icon=8&color=5" alt="profile-views" height="20px" align="right"/>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/X7jznpZj/cat.gif">
 
 <p align="center">🌟 I'm interested in web technologies.</p>
