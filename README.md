@@ -42,19 +42,6 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sankar-raul&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
-
-<h2 align="center">My Projects</h2>
-
-<h3 align="center">User registration Web App</h3>
-
-<p align="center">
-  📝 <strong>Description</strong>: This is a web-based user registration application that I built using HTML, CSS, JavaScript, Node.js, Express.js, JSON API, and PostgreSQL.
-</p>
-
-<p align="center">
-  📁 <strong>Link:</strong> <a href="https://github.com/sankar-raul/nodeLogin">User registration Web App</a>
-</p>
-
 <p align="center">
   Feel free to explore the project on its <a href="https://github.com/sankar-raul?tab=repositories">GitHub repository</a>. You can find the source code and more details about how it works.
 </p>
