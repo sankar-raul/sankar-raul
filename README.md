@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/postgresql-%2300000f.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/ba
+dge/react.js-%2343853D.svgstyle=flat&logo=react&logoColor=white" alt="React.js">
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
