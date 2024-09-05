@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/postgresql-%2300000f.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=#fff" alt="JSON">
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React">
