@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-
+  <img src="https://img.shields.io/badge/DSA-blue.svg?style=flat&logo=code&logoColor=white" alt="DSA">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=#fff" alt="JSON">
