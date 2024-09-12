@@ -38,12 +38,18 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
-
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/Anjana2k02/Anjana2k02/blob/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
 <h2 align="center">Top Contributed Repo</h2>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sankar-raul&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
+
 <p align="center">
   Feel free to explore the project on its <a href="https://github.com/sankar-raul?tab=repositories">GitHub repository</a>. You can find the source code and more details about how it works.
 </p>
