@@ -41,7 +41,7 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/sankar-raul/sankar-raul/blob/output/con.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/sankar-raul/sankar-raul/blob/main/con.svg" />
   <br/><br/><br/>
 </div>
 <h2 align="center">Top Contributed Repo</h2>
