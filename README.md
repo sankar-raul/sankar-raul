@@ -38,12 +38,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/sankar-raul/sankar-raul/blob/main/con.svg" />
-  <br/><br/><br/>
-</div>
 <h2 align="center">Top Contributed Repo</h2>
 
 <div align="center">
