@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
  
 [![Sankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankar-raul&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/sankar-raul/github-readme-activity-graph)
 <p align="center">About Me</p>
@@ -37,8 +37,7 @@
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </div>
 <h2 align="center">Top Contributed Repo</h2>
 
