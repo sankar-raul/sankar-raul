@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
+[![Sankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankar-raul&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/sankar-raul/github-readme-activity-graph)
 <p align="center">About Me</p>
 
 <p align="center">
