@@ -2,10 +2,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/X7jznpZj/cat.gif">
 <img src="https://visitcount.itsvg.in/api?id=sankar-raul&pretty=true" alt="profile-views" height="25px"/>
 
-<p align="left">🌟 I'm interested in web technologies.</p>
+>> <p align="left">🌟 I'm interested in web technologies.</p>
 
-<p align="left">🚀 I'm currently learning <b>React</b> and <b>Node.js</b>.</p>
-<p align="left">📚 I'm a <b>BCA</b> (Bachelor of Computer Applications) student.</p>
+>> <p align="left">🚀 I'm currently learning <b>React</b> and <b>Node.js</b>.</p>
+
+>> <p align="left">📚 I'm a <b>BCA</b> (Bachelor of Computer Applications) student.</p>
 
 > **<h3 align="left">Connect with me</h3>**
 
@@ -44,9 +45,10 @@
 ---
 
 [![Sankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankar-raul&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/sankar-raul/github-readme-activity-graph)
-<p align="center">About Me</p>
+> **<h2 align="left">About Me</h2>**
 <p align="center">
-  I'm passionate about web development and enjoy exploring the latest technologies in this field. As a BCA student, I'm dedicated to expanding my knowledge and building exciting projects.
+  
+  >> I'm passionate about web development and enjoy exploring the latest technologies in this field. As a BCA student, I'm dedicated to expanding my knowledge and building exciting projects.
 </p>
 
 > **<h2 align="left">GitHub Stats</h2>**
