@@ -53,14 +53,14 @@
 
 > **<h2 align="left">GitHub Stats</h2>**
 <div align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=false" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankar-raul&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
 
 > **<h2 align="left">Top Contributed Repo</h2>**
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankar-raul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankar-raul&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
 </div>
 
 ---
