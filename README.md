@@ -11,22 +11,22 @@
 > **<h3 align="left">Connect with me</h3>**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sankar-raul/" target="_blank">
+  <a href="https://www.linkedin.com/in/sankar-raul/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankar raul" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/sankar_raul_/" target="_blank">
+  <a href="https://www.instagram.com/sankar_raul_/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sankar_raul_" height="30" width="40" />
   </a>
-  <a href="https://x.com/sankar_raul" target="_blank">
+  <a href="https://x.com/sankar_raul">
     <img align="center" src="/twitter.png" alt="sankar_raul_" width="40" />
   </a>
-  <a href="https://leetcode.com/u/sankar-raul/" target="_blank">
+  <a href="https://leetcode.com/u/sankar-raul/">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sankar raul" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sankar_raul/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/sankar_raul/">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="sankar raul" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/sankarraul.me" target="_blank">
+  <a href="https://www.facebook.com/sankarraul.me">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sankar raul" height="30" width="40" />
   </a>
 </p>
