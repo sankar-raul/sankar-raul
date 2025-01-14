@@ -1,7 +1,7 @@
 > **<h1 align="center">👋 Hi, I'm Sankar.</h1>**
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/X7jznpZj/cat.gif">
 <img src="https://visitcount.itsvg.in/api?id=sankar-raul&pretty=true" alt="profile-views" height="25px"/>
-
+ 
 >> <p align="left">🌟 I'm interested in web technologies.</p>
 
 >> <p align="left">🚀 I'm currently learning <b>React</b> and <b>Node.js</b>.</p>
