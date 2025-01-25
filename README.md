@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React">
 <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
    <img src="https://img.shields.io/badge/python-%2300599C.svg?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 ---
