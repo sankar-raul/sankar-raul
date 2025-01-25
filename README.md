@@ -33,18 +33,18 @@
 
 ---
  <p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/DSA-blue.svg?style=flat&logo=code&logoColor=white" alt="DSA">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=#fff" alt="JSON">
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-   <img src="https://img.shields.io/badge/python-%2300599C.svg?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.icons8.com/?size=256&id=40670&format=png" heigth="40" width="40" alt="C">
+  <img src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" heigth="40" width="40" alt="javaScript">
+  <img src="https://img.icons8.com/?size=256&id=20909&format=png" heigth="40" width="40" alt="HTML">
+  <img src="https://img.icons8.com/?size=256w&id=rgPSE6nAB766&format=png" heigth="40" width="40" alt="MySQL">
+  <img src="https://img.freepik.com/premium-vector/dsa-letter-logo-design-technology-company-dsa-logo-design-black-white-color-combination-dsa-logo-dsa-vector-dsa-design-dsa-icon-dsa-alphabet-dsa-typography-logo-design_229120-149253.jpg" heigth="40" width="40" alt="DSA">
+  <img src="https://logowik.com/content/uploads/images/express-js2119.logowik.com.webp" heigth="40" width="40" alt="Express.JS">
+  <img src="https://img.icons8.com/?size=256w&id=22441&format=png&color=FFFFFF" heigth="40" width="40" alt="JSON">
+<img src="https://img.icons8.com/?size=256&id=123603&format=png" height="40" width="40" alt="React">
+  <img src="https://img.icons8.com/?size=256&id=dJjTWMogzFzg&format=png" height="40" width="40" alt="Vite">
+    <img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" height="40" width="40" alt="NodeJs">
+    <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python">
+    <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma">
 </p>
 
 ---
