@@ -35,6 +35,7 @@
  <p align="left">
   <img src="https://img.icons8.com/?size=256&id=40670&format=png" heigth="40" width="40" alt="C">
   <img src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" heigth="40" width="40" alt="javaScript">
+    <img src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" heigth="40" width="40" alt="CSS">
   <img src="https://img.icons8.com/?size=256&id=20909&format=png" heigth="40" width="40" alt="HTML">
   <img src="https://img.icons8.com/?size=256w&id=rgPSE6nAB766&format=png" heigth="40" width="40" alt="MySQL">
   <img src="https://img.freepik.com/premium-vector/dsa-letter-logo-design-technology-company-dsa-logo-design-black-white-color-combination-dsa-logo-dsa-vector-dsa-design-dsa-icon-dsa-alphabet-dsa-typography-logo-design_229120-149253.jpg" heigth="40" width="40" alt="DSA">
