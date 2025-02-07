@@ -34,6 +34,7 @@
 ---
  <p align="left">
   <img src="https://img.icons8.com/?size=256&id=40670&format=png" heigth="40" width="40" alt="C">
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40" alt="C++">
   <img src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" heigth="40" width="40" alt="javaScript">
     <img src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" heigth="40" width="40" alt="CSS">
   <img src="https://img.icons8.com/?size=256&id=20909&format=png" heigth="40" width="40" alt="HTML">
@@ -46,7 +47,6 @@
     <img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" height="40" width="40" alt="NodeJs">
     <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python">
     <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma">
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40" alt="C++">
 </p>
 
 ---
