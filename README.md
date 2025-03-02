@@ -1,7 +1,5 @@
 > **<h1 align="center">👋 Hi, I'm Sankar.</h1>**
 
-<img src="https://visitcount.itsvg.in/api?id=sankar-raul&pretty=true" alt="profile-views" height="25px"/>
- 
 >> <p align="left">🌟 I'm interested in web technologies.</p>
 
 >> <p align="left">🚀 I'm currently learning <b>React</b> and <b>Node.js</b>.</p>
@@ -48,6 +46,13 @@
     <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma">
 </p>
 
+---
+
+>> ## Profile views
+
+ 
+> ![Visitor Count](https://profile-counter.glitch.me/sankar-raul/count.svg)
+ 
 ---
 
 [![Sankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sankar-raul&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/sankar-raul/github-readme-activity-graph)
