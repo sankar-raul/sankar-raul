@@ -2,7 +2,7 @@
 
 >> <p align="left">🌟 I'm interested in web technologies.</p>
 
->> <p align="left">🚀 I'm currently learning <b>React</b> and <b>Node.js</b>.</p>
+>> <p align="left">🚀 I'm currently learning <b>React Native</b>.</p>
 
 >> <p align="left">📚 I'm a <b>BCA</b> (Bachelor of Computer Applications) student.</p>
 
