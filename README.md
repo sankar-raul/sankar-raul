@@ -1,10 +1,10 @@
 > **<h1 align="center">👋 Hi, I'm Sankar.</h1>**
 
->> <p align="left">🌟 I'm interested in web technologies.</p>
+>> 🌟 I'm interested in web technologies.
 
->> <p align="left">🚀 I'm currently learning <b>React Native</b>.</p>
+>> 🚀 I'm currently learning **React Native**.
 
->> <p align="left">📚 I'm a <b>BCA</b> (Bachelor of Computer Applications) student. (2nd year)</p>
+>> 📚 I'm a **BCA** (Bachelor of Computer Applications) student. (**2nd year**)
 
 > **<h3 align="left">Connect with me</h3>**
 <p align="left">
