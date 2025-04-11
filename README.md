@@ -4,7 +4,7 @@
 
 >> <p align="left">🚀 I'm currently learning <b>React Native</b>.</p>
 
->> <p align="left">📚 I'm a <b>BCA</b> (Bachelor of Computer Applications) student.</p>
+>> <p align="left">📚 I'm a <b>BCA</b> (Bachelor of Computer Applications) student. (2nd year)</p>
 
 > **<h3 align="left">Connect with me</h3>**
 <p align="left">
