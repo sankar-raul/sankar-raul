@@ -2,7 +2,7 @@
 
 >> 🌟 I'm interested in web technologies.
 
->> 🚀 I'm currently learning **React Native**.
+>> 🚀 I'm currently learning **Machine Learning**.
 
 >> 📚 I'm a **BCA** (Bachelor of Computer Applications) student. (**2nd year**)
 
