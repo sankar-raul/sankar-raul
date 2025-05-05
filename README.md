@@ -47,6 +47,7 @@
 <img src="https://img.icons8.com/?size=256&id=123603&format=png" height="40" width="40" alt="React">
   <img src="https://img.icons8.com/?size=256&id=dJjTWMogzFzg&format=png" height="40" width="40" alt="Vite">
     <img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" height="40" width="40" alt="NodeJs">
+       <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" width="40" alt="Redis">
     <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python">
     <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma">
 </p>
