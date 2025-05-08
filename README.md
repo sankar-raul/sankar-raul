@@ -35,7 +35,7 @@
 
 ---
  <p align="left">
-  <img src="https://img.icons8.com/?size=256&id=40670&format=png" heigth="40" width="40" alt="C">
+  <img src="https://img.icons8.com/?size=256&id=40670&format=png" heigth="40" width="40" alt="C" title='C'>
     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40" alt="C++">
   <img src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" heigth="40" width="40" alt="javaScript">
     <img src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" heigth="40" width="40" alt="CSS">
