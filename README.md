@@ -54,10 +54,16 @@
 
 ---
 
->> ## Profile views
+> ## 🎯 Hobbies & Interests
 
- 
-> ![Visitor Count](https://profile-counter.glitch.me/sankar-raul/count.svg)
+>> 🎵 Listening to music – especially Bengali and Hindi classical songs  
+>> 🏏 Playing cricket – Right-arm long-hand fast bowler  
+>> 💻 Building fun web projects and exploring new tech
+---
+
+> ## Profile views
+
+>> ![Visitor Count](https://profile-counter.glitch.me/sankar-raul/count.svg)
  
 ---
 
