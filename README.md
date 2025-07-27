@@ -75,14 +75,13 @@
 </p>
 
 > **<h2 align="left">GitHub Stats</h2>**
-<div align='center'>
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankar-raul&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
 
 > **<h2 align="left">Tech Stack</h2>**
 
-<div align="center">
+<div align="">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankar-raul&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
 </div>
 
