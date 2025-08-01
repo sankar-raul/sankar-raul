@@ -1,6 +1,6 @@
 > **<h1 align="center">👋 Hi, I'm Sankar.</h1>**
 
->> 🌟 I'm interested in web technologies.
+>> 🌟 I'm interested in web technologies. 
 
 >> 🚀 I'm currently learning **Machine Learning**.
 
