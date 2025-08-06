@@ -1,6 +1,6 @@
 > **<h1 align="center">👋 Hi, I'm Sankar.</h1>**
-
->> 🌟 I'm interested in web technologies. 
+ ## *"Not every project was perfect, but every one taught me something."*
+>> 🌟 I'm interested in web technologies.
 
 >> 🚀 I'm currently learning **Machine Learning**.
 
@@ -73,6 +73,10 @@
 <p align="center">
   
   >> I'm passionate about web development and enjoy exploring the latest technologies in this field. As a BCA student, I'm dedicated to expanding my knowledge and building exciting projects.
+
+>> I’m not just learning code — I’m building a mindset, a habit, and a future.
+I'm proud of who I was, who I am, and who I’m becoming.
+– Sankar Raul
 </p>
 
 > **<h2 align="left">GitHub Stats</h2>**
