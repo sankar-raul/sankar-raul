@@ -1,5 +1,5 @@
 > **<h1 align="center">👋 Hi, I'm Sankar.</h1>**
-> ### *"Not every project was perfect, but every one taught me something."*
+> ### *"Not every project was perfect, but each one taught me something."*
 >> 🌟 I'm interested in web technologies.
 
 >> 🚀 I'm currently learning **Machine Learning**.
