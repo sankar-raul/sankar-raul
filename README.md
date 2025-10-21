@@ -86,7 +86,7 @@
 > **<h2 align="left">Tech Stack</h2>**
 
 <div align="">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankar-raul&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankar-raul&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=20" alt="Top Languages"/>
 </div>
 
 ---
