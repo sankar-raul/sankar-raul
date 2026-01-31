@@ -36,6 +36,7 @@
   <img src="https://www.typescriptlang.org/favicon.ico" heigth="40" width="40" alt="TypeScript" title='typecript'>
     <img src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" heigth="40" width="40" alt="CSS" title='CSS'>
   <img src="https://img.icons8.com/?size=256&id=20909&format=png" heigth="40" width="40" alt="HTML" title='HTML'>
+   <img src="https://tailwindcss.com/favicon.ico" heigth="40" width="40" alt="tailwindcss" title='tailwindcss'>
   <img src="https://img.icons8.com/?size=256w&id=rgPSE6nAB766&format=png" heigth="40" width="40" alt="MySQL" title='MySQL'>
      <img src="https://www.mongodb.com/favicon.ico" heigth="40" width="40" alt="MongoDB" title='MongoDB'>
   <img src="https://img.freepik.com/premium-vector/dsa-letter-logo-design-technology-company-dsa-logo-design-black-white-color-combination-dsa-logo-dsa-vector-dsa-design-dsa-icon-dsa-alphabet-dsa-typography-logo-design_229120-149253.jpg" heigth="40" width="40" alt="DSA" title='DSA'>
