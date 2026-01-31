@@ -40,6 +40,7 @@
   <img src="https://img.icons8.com/?size=256w&id=rgPSE6nAB766&format=png" heigth="40" width="40" alt="MySQL" title='MySQL'>
      <img src="https://www.mongodb.com/favicon.ico" heigth="40" width="40" alt="MongoDB" title='MongoDB'>
   <img src="https://img.freepik.com/premium-vector/dsa-letter-logo-design-technology-company-dsa-logo-design-black-white-color-combination-dsa-logo-dsa-vector-dsa-design-dsa-icon-dsa-alphabet-dsa-typography-logo-design_229120-149253.jpg" heigth="40" width="40" alt="DSA" title='DSA'>
+   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" heigth="40" width="40" alt="postman" title='postman'>
   <img src="https://logowik.com/content/uploads/images/express-js2119.logowik.com.webp" heigth="40" width="40" alt="Express.JS" title='Express.JS'>
 <img src="https://img.icons8.com/?size=256&id=123603&format=png" height="40" width="40" alt="React" title='React'>
     <img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" height="40" width="40" alt="NodeJs" title='NodeJS'>
