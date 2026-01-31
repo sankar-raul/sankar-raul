@@ -40,7 +40,6 @@
   <img src="https://img.freepik.com/premium-vector/dsa-letter-logo-design-technology-company-dsa-logo-design-black-white-color-combination-dsa-logo-dsa-vector-dsa-design-dsa-icon-dsa-alphabet-dsa-typography-logo-design_229120-149253.jpg" heigth="40" width="40" alt="DSA" title='DSA'>
   <img src="https://logowik.com/content/uploads/images/express-js2119.logowik.com.webp" heigth="40" width="40" alt="Express.JS" title='Express.JS'>
 <img src="https://img.icons8.com/?size=256&id=123603&format=png" height="40" width="40" alt="React" title='React'>
-  <img src="https://img.icons8.com/?size=256&id=dJjTWMogzFzg&format=png" height="40" width="40" alt="Vite" title='Vite'>
     <img src="https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png" height="40" width="40" alt="NodeJs" title='NodeJS'>
        <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" width="40" alt="Redis" title='Redis'>
     <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python" title='Python'>
