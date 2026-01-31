@@ -45,6 +45,7 @@
        <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" width="40" alt="Redis" title='Redis'>
     <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python" title='Python'>
      <img src="https://cloud.google.com/favicon.ico" heigth="40" width="40" alt="gcp" title='gcp'>
+   <img src="https://us-east-2.signin.aws.amazon.com/v2/assets/_next/static/media/aws-logo@2x.7c50e6f9.png" heigth="40" width="40" alt="aws" title='aws'>
     <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma" title='Figma'>
     <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="40" width="40" alt="Go" title='Go'>
 </p>
