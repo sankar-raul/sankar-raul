@@ -78,9 +78,10 @@
 </p>
 
 > **<h2 align="left">GitHub Stats</h2>**
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</div>
+## GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sankar-raul&theme=radical&hide_border=true)
+
 
 > **<h2 align="left">Tech Stack</h2>**
 
