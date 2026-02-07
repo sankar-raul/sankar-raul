@@ -77,10 +77,7 @@
 – Sankar Raul
 </p>
 
-> **<h2 align="left">GitHub Stats</h2>**
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankar-raul&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sankar-raul&theme=radical&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 > **<h2 align="left">Tech Stack</h2>**
 
