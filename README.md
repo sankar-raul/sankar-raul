@@ -50,8 +50,9 @@
     <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python" title='Python'>
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" width="" alt="FastAPI" title='FastAPI'>
      <img src="https://cloud.google.com/favicon.ico" heigth="40" width="40" alt="gcp" title='gcp'>
-   <img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" heigth="40" width="80" alt="aws" title='aws'>
+   <img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" heigth="40" width="70" alt="aws" title='aws'>
     <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma" title='Figma'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" width="60" alt="PHP" title='PHP'>
     <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="40" width="40" alt="Go" title='Go'>
 </p>
 
