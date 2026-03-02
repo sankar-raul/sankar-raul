@@ -31,23 +31,26 @@
 ---
  <p align="left">
   <img src="https://img.icons8.com/?size=256&id=40670&format=png" heigth="40" width="40" alt="C" title='C'>
-    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40" alt="C++" title='C++'>
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="" alt="C++" title='C++'>
   <img src="https://img.icons8.com/?size=256&id=PXTY4q2Sq2lG&format=png" heigth="40" width="40" alt="javaScript" title='javascript'>
   <img src="https://www.typescriptlang.org/favicon.ico" heigth="40" width="40" alt="TypeScript" title='typecript'>
     <img src="https://img.icons8.com/?size=256&id=7gdY5qNXaKC0&format=png" heigth="40" width="40" alt="CSS" title='CSS'>
   <img src="https://img.icons8.com/?size=256&id=20909&format=png" heigth="40" width="40" alt="HTML" title='HTML'>
    <img src="https://tailwindcss.com/favicon.ico" heigth="40" width="40" alt="tailwindcss" title='tailwindcss'>
   <img src="https://img.icons8.com/?size=256w&id=rgPSE6nAB766&format=png" heigth="40" width="40" alt="MySQL" title='MySQL'>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" heigth="40" width="40" alt="PostgreSQL" title='PostgreSQL'>
      <img src="https://www.mongodb.com/favicon.ico" heigth="40" width="40" alt="MongoDB" title='MongoDB'>
   <img src="https://img.freepik.com/premium-vector/dsa-letter-logo-design-technology-company-dsa-logo-design-black-white-color-combination-dsa-logo-dsa-vector-dsa-design-dsa-icon-dsa-alphabet-dsa-typography-logo-design_229120-149253.jpg" heigth="40" width="40" alt="DSA" title='DSA'>
    <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" heigth="40" width="40" alt="postman" title='postman'>
   <img src="https://logowik.com/content/uploads/images/express-js2119.logowik.com.webp" heigth="40" width="40" alt="Express.JS" title='Express.JS'>
 <img src="https://img.icons8.com/?size=256&id=123603&format=png" height="40" width="40" alt="React" title='React'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" width="40" alt="NodeJs" title='NodeJS'>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" width="" alt="NodeJs" title='NodeJS'>
        <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="40" width="40" alt="Redis" title='Redis'>
+       <img src="https://i.ibb.co/vx88b77R/Pinecone.jpg" height="40" width="" alt="Pinecone" title='Pinecone'>
     <img src="https://img.icons8.com/?size=256&id=l75OEUJkPAk4&format=png" height="40" width="40" alt="Python" title='Python'>
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" width="" alt="FastAPI" title='FastAPI'>
      <img src="https://cloud.google.com/favicon.ico" heigth="40" width="40" alt="gcp" title='gcp'>
-   <img src="https://us-east-2.signin.aws.amazon.com/v2/assets/_next/static/media/aws-logo@2x.7c50e6f9.png" heigth="40" width="40" alt="aws" title='aws'>
+   <img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" heigth="40" width="80" alt="aws" title='aws'>
     <img src="https://img.icons8.com/?size=256&id=W0YEwBDDfTeu&format=png" height="40" width="40" alt="Figma" title='Figma'>
     <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" height="40" width="40" alt="Go" title='Go'>
 </p>
