@@ -2,9 +2,9 @@
 > ### *"Not every project was perfect, but each one taught me something."*
 >> 🌟 I'm interested in web technologies.
 
->> 🚀 I'm currently learning **Machine Learning**.
+>> 🚀 I'm currently learning **Gen AI**.
 
->> 📚 I'm a **BCA** (Bachelor of Computer Applications) student. (**2nd year**)
+>> 📚 I'm a **BCA** (Bachelor of Computer Applications) student. (**4th year**)
 
 > **<h3 align="left">Connect with me</h3>**
 <p align="left">
